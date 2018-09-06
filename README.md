@@ -1,2 +1,2 @@
 # mini-redux
-dev
+dev2
